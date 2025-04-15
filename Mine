@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Official website of Israt Jahan Vabna – The Boss Lady, Next Billionaire, and The Mymensingh Sadar Lady.">
+    <title>Israt Jahan Vabna - The Boss Lady</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1e1e1e;
+            color: #f5f5f5;
+        }
+
+        header {
+            background: linear-gradient(to right, #8B0000, #D2691E);
+            padding: 50px 0;
+            text-align: center;
+            color: #fff;
+        }
+
+        header h1 {
+            font-size: 3.5em;
+            font-weight: bold;
+        }
+
+        header p {
+            font-size: 1.3em;
+            margin-top: 20px;
+        }
+
+        .content {
+            text-align: center;
+            padding: 80px 20px;
+        }
+
+        .content h2 {
+            font-size: 2.5em;
+            color: #FFD700;
+            font-weight: 600;
+        }
+
+        .content p {
+            font-size: 1.3em;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+
+        .footer {
+            background-color: #1e1e1e;
+            text-align: center;
+            padding: 20px;
+            color: #bbb;
+        }
+
+        .footer a {
+            color: #FFD700;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer a:hover {
+            color: #fff;
+        }
+        
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #FFD700;
+            color: #1e1e1e;
+            text-transform: uppercase;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 30px;
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+
+        .button:hover {
+            background-color: #D2691E;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Israt Jahan Vabna</h1>
+        <p>The Boss Lady | Next Billionaire | The Mymensingh Sadar Lady</p>
+    </header>
+
+    <div class="content">
+        <h2>Welcome to the Official Space</h2>
+        <p>Israt Jahan Vabna is not just a name—it's a legacy in the making. Rising from Mymensingh, she is destined to become the next billionaire and a global inspiration. Follow her journey as she transforms dreams into reality.</p>
+        <a href="#" class="button">Learn More</a>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2025 Israt Jahan Vabna. All Rights Reserved.</p>
+        <p>Follow on <a href="https://www.instagram.com" target="_blank">Instagram</a> | <a href="https://www.linkedin.com" target="_blank">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
